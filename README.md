@@ -1,9 +1,11 @@
+let: you = uncool;
+
 if (you.inMyServer == true) {
 
      you = cool;
 } else {
 
-     join: discord.guilds.***dsc.gg/agency***;
+     join: discord.guilds.dsc.gg/agency;
 }
 
 ***-Bot Dev-Game-Dev-***
